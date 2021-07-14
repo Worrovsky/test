@@ -1,2 +1,2 @@
 some text here
-add new line
+add new line and add more info in line #2
